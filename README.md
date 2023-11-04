@@ -8,5 +8,4 @@ You can click the
 Preview link to take a look at your changes.
 --->
 
-<img src=”http://![Uploading image.png…]()
-”>
+<img src=”http://https://cdn3.vectorstock.com/i/1000x1000/91/17/website-development-banner-programming-technology-vector-25839117.jpg”>
