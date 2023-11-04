@@ -4,5 +4,9 @@
 - ✨ I'm Information System student at Bina Insani University😉
 <!---
 Donairmanabila/Donairmanabila is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the 
+Preview link to take a look at your changes.
 --->
+
+<img src=”http://![Uploading image.png…]()
+”>
