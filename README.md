@@ -3,4 +3,4 @@
 - ⭐ I’m now learning programming languages Python, PHP, JavaScript, C++, C#, CSS, Node JS,SQL
 - 👩🏼‍💻 I'm Information System student at Bina Insani University😉
 - 💻 I'm a Marketing Communication at PT. Gemilang Duabelas Prosindo
-
+- 💻 I'm a Chief Technology Officer at Djamin.Pro
